@@ -62,6 +62,7 @@ CloudMart integrates:
 ├── vite.config.js         # Frontend build config
 ├── terraform/             # Infra-as-Code (optional)
 └── README.md              # This file
+```
 
 ## 🧪 Features
 
