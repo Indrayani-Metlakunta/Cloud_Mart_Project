@@ -62,3 +62,11 @@ CloudMart integrates:
 ├── vite.config.js         # Frontend build config
 ├── terraform/             # Infra-as-Code (optional)
 └── README.md              # This file
+
+## 🧪 Features
+
+- 🛒 Smart product recommendation system
+- 📦 Order management with BigQuery-powered insights
+- 🤖 AI chatbot for customer support (GPT-4o + Bedrock)
+- 📊 Review sentiment analytics via Azure AI
+- 🚀 CI/CD-ready via Docker + Kubernetes
